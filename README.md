@@ -1,8 +1,10 @@
 # ChatBot
 Overview:
+
 This project aims to build an intelligent chatbot using natural language processing (NLP) techniques. The chatbot will be able to understand user queries, provide relevant responses, and engage in meaningful conversations.
 
 Features:
+
 1.User Interaction:
 
 The chatbot will greet users and prompt them for input.
